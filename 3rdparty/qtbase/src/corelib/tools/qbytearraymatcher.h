@@ -41,6 +41,7 @@
 #define QBYTEARRAYMATCHER_H
 
 #include <QtCore/qbytearray.h>
+#include <string.h>
 
 QT_BEGIN_NAMESPACE
 
